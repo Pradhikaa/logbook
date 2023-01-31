@@ -1,2 +1,0 @@
-# logbook
-Tugas Draft
